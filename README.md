@@ -2,7 +2,6 @@
 
  <body>
 <div id="header" align="center" >
- <h3 width="%50">Hi, I'm Oguzhan 👋 <h3/>
   <h3/>
   <h3> 'If you torture the data long enough, it will confess to anything' <h3/>
 </div>
