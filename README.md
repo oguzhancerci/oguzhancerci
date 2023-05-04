@@ -20,7 +20,7 @@
 
 
   
-  <h4 align="center">Visitor count</h4>
+  <h4 align="center">Visitor Count</h4>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/oguzhancerci/count.svg" />
 </p>
